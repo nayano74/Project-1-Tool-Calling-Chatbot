@@ -1,4 +1,4 @@
-from typing import Dict, Type, List
+from typing import Dict, Type, List, Any
 from .base import BaseTool
 
 class ToolRegistry:
